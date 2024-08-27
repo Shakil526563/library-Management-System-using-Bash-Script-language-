@@ -1,0 +1,1 @@
+For my academic project, I'm creating a simple library management system to track books, manage user accounts, and handle check-outs and returns efficiently. The system will streamline book searches and inventory updates.
